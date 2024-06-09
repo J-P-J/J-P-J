@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Pascal (°▽°)ﾉ. \
+Hi, I'm Pascal \
 I have a background in electrical engineering specialized in renewable energies. \
 While I was writing my thesis on this subject there were some issues that led me to have to cancel the work on my thesis and look for a job.
 
@@ -22,7 +22,6 @@ I have worked as a consultant for a german startup company that specializeses in
 ## Table of contents
 [Portfolio projects](#Portfolio-projects)\
 [Study projects](#Study-projects)\
-[Certificates](#Certificates)\
 [Contact](#Contact)
 
 ## Portfolio projects
@@ -30,7 +29,5 @@ I have worked as a consultant for a german startup company that specializeses in
 In this section I will list and briefly describe data analysis projects as well as the neccessary features needed to solve those projects.
 
 ## Study projects
-
-## Certificates
 
 ## Contact
